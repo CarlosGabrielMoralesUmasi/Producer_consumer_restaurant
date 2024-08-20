@@ -49,7 +49,7 @@ Este proyecto es una simulación de un sistema de gestión de órdenes en un res
 ## Ejemplo de Salida
 
 Al ejecutar el programa, verás una salida similar a la siguiente en la consola:
-
+```plaintext
 Chef Chef-MainCourse cannot process order 0 due to lack of ingredients.
 Chef Chef-Dessert cannot process order 1 due to lack of ingredients.
 Waiter Waiter-VIP placed order 1 for VIP
@@ -58,7 +58,7 @@ Processing order 3: Order details: 4 [Priority: 5, Size: 4, Special: true] (Type
 Inventory restocked!
 Order 10 is ready to be served!
 Chef Chef-MainCourse cannot process order 9 due to lack of ingredients.
-
+```
 
 ### Descripción de la Salida
 
