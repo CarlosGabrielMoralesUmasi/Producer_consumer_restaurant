@@ -54,10 +54,58 @@ Chef Chef-MainCourse cannot process order 0 due to lack of ingredients.
 Chef Chef-Dessert cannot process order 1 due to lack of ingredients.
 Waiter Waiter-VIP placed order 1 for VIP
 Waiter Waiter-Regular placed order 0 for REGULAR
+Chef Chef-Dessert cannot process order 0 due to lack of ingredients.
+Chef Chef-MainCourse cannot process order 1 due to lack of ingredients.
+Waiter Waiter-Regular placed order 2 for REGULAR
+Waiter Waiter-VIP placed order 3 for VIP
+Chef Chef-Dessert cannot process order 1 due to lack of ingredients.
 Processing order 3: Order details: 4 [Priority: 5, Size: 4, Special: true] (Type: MAIN_COURSE, Size: 4, Special: true) by Chef-MainCourse
+Chef Chef-Dessert cannot process order 1 due to lack of ingredients.
+Chef Chef-Dessert cannot process order 1 due to lack of ingredients.
+Waiter Waiter-Regular placed order 4 for REGULAR
+Waiter Waiter-VIP placed order 5 for VIP
+Chef Chef-Dessert cannot process order 5 due to lack of ingredients.
+Chef Chef-Dessert cannot process order 1 due to lack of ingredients.
+Chef Chef-Dessert cannot process order 5 due to lack of ingredients.
+Waiter Waiter-VIP placed order 6 for VIP
+Waiter Waiter-Regular placed order 7 for REGULAR
+Chef Chef-Dessert cannot process order 1 due to lack of ingredients.
+Chef Chef-Dessert cannot process order 6 due to lack of ingredients.
+Waiter Waiter-Regular placed order 8 for REGULAR
 Inventory restocked!
-Order 10 is ready to be served!
+Chef Chef-Dessert cannot process order 1 due to lack of ingredients.
+Chef Chef-Dessert cannot process order 6 due to lack of ingredients.
+Waiter Waiter-VIP placed order 9 for VIP
+Chef Chef-Dessert cannot process order 1 due to lack of ingredients.
+Waiter Waiter-VIP placed order 10 for VIP
+Chef Chef-Dessert cannot process order 9 due to lack of ingredients.
+Waiter Waiter-Regular placed order 11 for REGULAR
+Chef Chef-Dessert cannot process order 6 due to lack of ingredients.
+Order 3 is ready to be served!
 Chef Chef-MainCourse cannot process order 9 due to lack of ingredients.
+Processing order 10: Order details: 11 [Priority: 5, Size: 3, Special: false] (Type: DESSERT, Size: 3, Special: false) by Chef-Dessert
+Chef Chef-MainCourse cannot process order 1 due to lack of ingredients.
+Waiter Waiter-Regular placed order 12 for REGULAR
+Waiter Waiter-VIP placed order 13 for VIP
+Chef Chef-MainCourse cannot process order 6 due to lack of ingredients.
+Chef Chef-MainCourse cannot process order 9 due to lack of ingredients.
+Waiter Waiter-Regular placed order 14 for REGULAR
+Chef Chef-MainCourse cannot process order 6 due to lack of ingredients.
+Chef Chef-MainCourse cannot process order 9 due to lack of ingredients.
+Waiter Waiter-VIP placed order 15 for VIP
+Inventory restocked!
+Chef Chef-MainCourse cannot process order 6 due to lack of ingredients.
+Waiter Waiter-Regular placed order 16 for REGULAR
+Order 10 is ready to be served!
+Chef Chef-Dessert cannot process order 13 due to lack of ingredients.
+Chef Chef-MainCourse cannot process order 5 due to lack of ingredients.
+Waiter Waiter-VIP placed order 17 for VIP
+Chef Chef-Dessert cannot process order 6 due to lack of ingredients.
+Chef Chef-MainCourse cannot process order 13 due to lack of ingredients.
+Waiter Waiter-Regular placed order 18 for REGULAR
+Chef Chef-Dessert cannot process order 5 due to lack of ingredients.
+Chef Chef-MainCourse cannot process order 6 due to lack of ingredients.
+Waiter Waiter-VIP placed order 19 for VIP
 ```
 
 ### Descripción de la Salida
